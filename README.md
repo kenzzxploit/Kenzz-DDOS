@@ -43,6 +43,7 @@ pkg update && pkg upgrade
 
 # Install dependencies
 pkg install bash
+pkg install git
 
 # Clone repository
 git clone https://github.com/kenzzxploit/Kenzz-DDOS
