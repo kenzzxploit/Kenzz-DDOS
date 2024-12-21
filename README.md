@@ -45,7 +45,7 @@ pkg update && pkg upgrade
 pkg install bash
 
 # Clone repository
-git clone https://github.com/wanzxploit/Tools-deface
+git clone https://github.com/kenzzxploit/Kenzz-DDOS
 cd Kenzz-DDOS
 
 # Install Python dependencies
