@@ -29,7 +29,7 @@
 
 ## 🚀 System Requirements
 
-- Python 3.7+
+- Python 
 - Termux (for Android users)
 - Stable internet connection
 
