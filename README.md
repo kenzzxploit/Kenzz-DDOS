@@ -91,7 +91,7 @@ python ddos.py
 
 ## 👤 Developer Contact
 
-- **Instagram**: theofosint
+- **Instagram**: kenzzxploit
 - **YouTube**: kenzzxploit
 - **GitHub**: kenzzxploit
 
